@@ -32,7 +32,7 @@ Use English language when naming your variables and functions.
 ```js
 /* Bad */
 const primerNombre = 'Miguel'
-const amigos = ['Kate', 'John']
+const hermanos = ['Kate', 'John']
 
 /* Good */
 const firstName = 'Miguel'
