@@ -36,6 +36,11 @@ const abuelos = ['Kate', 'John']
 
 /* Good */
 const firstName = 'Lucas'
+const primerNombre = 'Miguel'
+const hermanos = ['Kate', 'John']
+
+/* Good */
+const firstName = 'Miguel'
 const friends = ['Kate', 'John']
 ```
 
